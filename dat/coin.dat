@@ -1,0 +1,10 @@
+# Student Name,diameter,uncertainty,height,uncertainty,Volume,Uncertainty
+# all values in cm / cm^3
+John Shackleton         ,2.35   ,0.05   ,0.17   ,0.01   ,0.744  ,0.081096
+Jiahui Du               ,2.43   ,0.05   ,0.15   ,0.02   ,0.696  ,0.1    
+Raymond Wynne           ,2.4    ,0.02   ,0.18   ,0.005  ,0.814  ,0.021  
+Bereket Sintayehu       ,2.4    ,0.2    ,0.2    ,0.1    ,0.9    ,0.8    
+Quinn Brodsky           ,2.05   ,0.05   ,0.15   ,0.05   ,0.4951 ,0.0095 
+Serhii Kryhin           ,1.756  ,0.008  ,0.136  ,0.004  ,0.33   ,0.01   
+Zackary Gromko          ,2.41   ,0.02   ,0.172  ,0.003  ,0.780  ,0.030
+Maya Reese              ,2.4    ,0.05   ,0.15   ,0.05   ,0.679  ,0.28
